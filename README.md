@@ -3,3 +3,10 @@ Grafana for data visualization, and AWS Lambda to create fucntions to simulate d
 plug's energy consumption. Using AlertManager from Grafana Elderly users will be able to receive notifications based on the energy
 changes that indicate if appliances are on or off. Notifications will be sent based on real-time data and enhance automation to 
 optimize system intelligence.
+
+Team Members: 
+Tristan Brisker - @TristanBrisker13
+Yailin Dominguez Santos - @YailinD
+Amber Jones - @ambjones
+Yanisley Mendiola - @ymendiola
+Erick Rodriguez - @ErickRodriguezSE
