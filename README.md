@@ -5,8 +5,13 @@ changes that indicate if appliances are on or off. Notifications will be sent ba
 optimize system intelligence.
 
 Team Members: 
-Tristan Brisker - @TristanBrisker13
-Yailin Dominguez Santos - @YailinD
-Amber Jones - @ambjones
-Yanisley Mendiola - @ymendiola
-Erick Rodriguez - @ErickRodriguezSE
+
+Tristan Brisker - @TristanBrisker13 
+
+Yailin Dominguez Santos - @YailinD 
+
+Amber Jones - @ambjones 
+
+Yanisley Mendiola - @ymendiola 
+
+Erick Rodriguez - @ErickRodriguezSE 
