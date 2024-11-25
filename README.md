@@ -4,6 +4,7 @@ plug's energy consumption. Using AlertManager from Grafana Elderly users will be
 changes that indicate if appliances are on or off. Notifications will be sent based on real-time data and enhance automation to 
 optimize system intelligence.
 
+
 Team Members: 
 
 Tristan Brisker - @TristanBrisker13 
