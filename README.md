@@ -1,3 +1,4 @@
+#Smart Home as a Service with AWS#
 Project Description:  
 This GitHub shows the documentation for a smart home device monitoring system using Prometheus for metrics collection and monitoring, 
 Grafana for metrics visualization and alerting, AWS Lambda to create functions to simulate data, and API Gateway to allow communication
