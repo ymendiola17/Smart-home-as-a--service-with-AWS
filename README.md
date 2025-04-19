@@ -6,11 +6,3 @@ In this simulation, different appliances will be connected to the smart plug whi
 Using AlertManager from Grafana, elderly users will be able to receive notifications based on the energy changes in their home environment that indicate if 
 appliances are on or off. Notifications will be sent based on real-time data and enhance automation to optimize system intelligence.    
     
-    
-
-Team Members:     
-Tristan Brisker - @TristanBrisker13   
-Yailin Dominguez Santos - @YailinD   
-Amber Jones - @ambjones   
-Yanisley Mendiola - @ymendiola17  
-Erick Rodriguez - @ErickRodriguezSE 
